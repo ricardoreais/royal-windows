@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/royal-windows/static/css/main.073c9b0a.css",
+    "main.js": "/royal-windows/static/js/main.8b83401b.js",
+    "static/js/787.480f3225.chunk.js": "/royal-windows/static/js/787.480f3225.chunk.js",
+    "index.html": "/royal-windows/index.html",
+    "main.073c9b0a.css.map": "/royal-windows/static/css/main.073c9b0a.css.map",
+    "main.8b83401b.js.map": "/royal-windows/static/js/main.8b83401b.js.map",
+    "787.480f3225.chunk.js.map": "/royal-windows/static/js/787.480f3225.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8b83401b.js"
+  ]
+}
